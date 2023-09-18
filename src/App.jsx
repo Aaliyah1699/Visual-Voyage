@@ -1,9 +1,15 @@
-/* eslint-disable no-unused-vars */
-import { useState } from 'react';
-import reactLogo from './assets/react.svg';
-import viteLogo from '/vite.svg';
-import './App.css';
+import Gallery from './Gallery';
+import SearchForm from './SearchForm';
+import ThemeToggle from './ThemeToggle';
 
-function App() {}
+const App = () => {
+    return (
+        <main>
+            <ThemeToggle />
+            <SearchForm />
+            <Gallery />
+        </main>
+    );
+};
 
 export default App;
