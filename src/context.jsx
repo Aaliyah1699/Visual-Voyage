@@ -21,6 +21,17 @@ export const AppProvider = ({ children }) => {
         setIsDarkTheme(newDarkTheme);
         localStorage.setItem('darkTheme', newDarkTheme);
     };
+
+    useEffect(() => {
+        document.body.classList.toggle('dark-theme', isDarkTheme);
+    }, [isDarkTheme]);
+    return (
+        <AppContext.Provider
+            value={{ isDarkTheme, toggleDarkTheme, searchTerm, setSearchTerm }}
+        >
+            {children}
+        </AppContext.Provider>
+    );
 };
 
 // custom hook
