@@ -293,18 +293,7 @@ ul {
     margin-top: 1rem;
 }
 
-/* 
-========
-PROJECT CSS
-========
-*/
-
-/* 
-========
-Toggle Container
-========
-*/
-
+/* Toggle Container */
 .toggle-container {
     width: var(--view-width);
     max-width: var(--max-width);
@@ -327,11 +316,8 @@ Toggle Container
     font-size: 1.5rem;
     color: var(--textColor);
 }
-/* 
-========
-Search Form
-========
-*/
+
+/* Search Form */
 .title {
     color: var(--primary-500);
 }
@@ -361,12 +347,7 @@ Search Form
     color: var(--black);
 }
 
-/* 
-========
-Gallery
-========
-*/
-
+/* Gallery */
 .image-container {
     width: var(--view-width);
     max-width: var(--max-width);
