@@ -19,9 +19,14 @@ Image Showcase
 The Gallery component elegantly showcases your search results.
 Experience smooth handling of loading, error, and no-results scenarios.
 Cutting-Edge Technologies
+
 **React**: Crafted with the power of React, a JavaScript library for building immersive user interfaces.
 Harnesses the capabilities of createContext, useContext, useState, and useEffect.
+
 **React Query**: Elevates server-state management in React applications.
+
 **Axios**: Makes HTTP requests a breeze.
+
 **Vite**: Empowers rapid development and optimized builds.
+
 **Netlify**: Ensures seamless continuous deployment and hosting
