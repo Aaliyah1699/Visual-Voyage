@@ -1,9 +1,8 @@
 # Visual Voyage
 
-Check it out [here](https://visual-voyage.netlify.app/)
 
 ## Discover Stunning Images Effortlessly
-Welcome to the Visual Voyage Image Search App, a dynamic responsive React application powered by Vite and seamlessly deployed on Netlify. With this app, you can effortlessly search for and explore a world of captivating images sourced from Unsplash API. Here's a glimpse of what this app has to offer:
+Welcome to the Visual Voyage Image Search App, a dynamic responsive React application powered by Vite and seamlessly deployed on Netlify. With this app, you can effortlessly search for and explore a world of captivating images sourced from Unsplash API. Here's a glimpse of what this app has to offer: [Visual Voyage](https://visual-voyage.netlify.app/)
 
 ## Feel free to check out my [Portfolio](https://aaliyahm-portfolio.netlify.app/) 🌃 ‼️
 
